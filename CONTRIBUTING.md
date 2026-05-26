@@ -1,4 +1,4 @@
-# Contributing to Open Design
+# Contributing to Koda Design
 
 Thanks for thinking about contributing. OD is small on purpose — most of the value lives in **files** (skills, design systems, prompt fragments) rather than framework code. That means the highest-leverage contributions are usually one folder, one Markdown file, or one PR-sized adapter.
 
@@ -40,7 +40,7 @@ Node `~24` and pnpm `10.33.x` are required. `nvm` / `fnm` are optional; use `nvm
 
 ## Docker Setup
 
-Run Open Design without installing Node.js or pnpm.
+Run Koda Designwithout installing Node.js or pnpm.
 
 ### Prerequisites
 
